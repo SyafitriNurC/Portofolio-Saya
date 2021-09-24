@@ -1,0 +1,81 @@
+body{
+  background-color: darkgrey;
+}
+
+.gambar{
+  text-align: center;
+}
+
+.ukuran-gambar{
+  width: 100px;
+  height: 50px;
+}
+
+.head{
+  margin:auto 120px;
+  font-family: Times New Roman;
+  font-size: 60px;
+}
+
+.head2{
+  margin:auto 300px;
+  font-family: Times New Roman;
+  font-size: 60px;
+ 
+}
+
+.data{
+  background-color: pink;
+  color: purple;
+  font-size: 30px;
+  line-height: 90px;
+  padding-left: 100px;
+  margin:auto 300px;
+  border:5px solid black;
+  max-width: 50%;
+  font-family: Times New Roman;
+}
+.myself{
+  background-color: pink;
+  padding-bottom: 10px;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+.info{
+  color: black;
+font-family: 'Crimson Text', serif;
+
+}
+
+.eskul {
+  background-color: pink;
+  color: purple;
+  padding-bottom: 20px;
+  max-width: 50%;
+  border: 5px red;
+  font-family: 'Times New Roman';
+}
+
+.semangat {
+  background-color: pink;
+  color: purple;
+  padding-bottom: 10px;
+  max-width: 50%;
+  border: 5px red;
+  font-family: 'Times New Roman';
+}
+
+.study{
+  background-color: pink;
+  color: purple;
+  padding-bottom: 10px;
+  max-width: 50%;
+  border: 5px red;
+  font-family: 'Times New Roman';
+}
+
+
+
+
+
+
+
